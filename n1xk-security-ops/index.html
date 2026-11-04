@@ -1,0 +1,37 @@
+<!doctype html>
+<html lang="en">
+<head>
+<meta charset="utf-8"><meta name="viewport" content="width=device-width,initial-scale=1">
+<title>N1XK Security Ops</title><link rel="stylesheet" href="style.css">
+</head>
+<body>
+<aside class="sidebar">
+  <div class="brand"><span class="brandmark">N</span><div><b>N1XK</b><small>SECURITY OPS</small></div></div>
+  <nav><a class="active" href="#">◫ &nbsp; Overview</a><a href="#incidents">⚑ &nbsp; Incidents</a><a href="#systems">▦ &nbsp; Systems</a><a href="#activity">◷ &nbsp; Activity</a></nav>
+  <div class="side-bottom"><span class="pulse"></span> Demo environment <small>v1.0.0</small></div>
+</aside>
+<main>
+<header><div><p class="eyebrow">SECURITY CENTER / OVERVIEW</p><h1>Operations overview</h1><p class="muted">A clear view of your simulated security environment.</p></div><div class="header-right"><span class="live"><i></i> LIVE DEMO</span><div class="avatar">NX</div></div></header>
+<section class="stats">
+ <article class="stat"><span>SECURITY SCORE</span><strong>96<span>/100</span></strong><small class="good">↑ 4.8% this month</small><div class="meter"><i style="width:96%"></i></div></article>
+ <article class="stat"><span>OPEN INCIDENTS</span><strong id="openCount">04</strong><small class="warn">2 require review</small><div class="mini-bars"><i></i><i></i><i></i><i></i><i></i><i></i><i></i></div></article>
+ <article class="stat"><span>PROTECTED SYSTEMS</span><strong>12<span>/12</span></strong><small class="good">All systems online</small><div class="meter"><i style="width:100%"></i></div></article>
+ <article class="stat"><span>EVENTS ANALYZED</span><strong>8.4k</strong><small class="muted">Last 24 hours</small><div class="mini-bars blue"><i></i><i></i><i></i><i></i><i></i><i></i><i></i></div></article>
+</section>
+<section class="grid">
+ <article class="panel" id="incidents"><div class="panel-head"><div><p class="eyebrow">THREAT MONITOR</p><h2>Incident queue</h2></div><select id="filter"><option value="all">All incidents</option><option value="High">High severity</option><option value="Medium">Medium severity</option><option value="Low">Low severity</option></select></div>
+ <div class="table-wrap"><table><thead><tr><th>INCIDENT</th><th>SOURCE</th><th>SEVERITY</th><th>STATUS</th></tr></thead><tbody id="incidentRows">
+ <tr data-level="High"><td><b>Unusual login pattern</b><small>INC-2048 · 8 min ago</small></td><td>Identity</td><td><em class="high">High</em></td><td><span class="status">Review</span></td></tr>
+ <tr data-level="Medium"><td><b>Policy change detected</b><small>INC-2047 · 24 min ago</small></td><td>Endpoint</td><td><em class="medium">Medium</em></td><td><span class="status">Open</span></td></tr>
+ <tr data-level="Low"><td><b>New device registered</b><small>INC-2046 · 1 hr ago</small></td><td>Network</td><td><em class="low">Low</em></td><td><span class="status resolved">Resolved</span></td></tr>
+ <tr data-level="High"><td><b>Repeated access failures</b><small>INC-2045 · 2 hrs ago</small></td><td>Identity</td><td><em class="high">High</em></td><td><span class="status">Review</span></td></tr>
+ </tbody></table></div><p class="footnote">Sample incident data for interface demonstration.</p></article>
+ <article class="panel" id="systems"><div class="panel-head"><div><p class="eyebrow">INFRASTRUCTURE</p><h2>System health</h2></div><span class="good">● Stable</span></div>
+ <div class="system"><span class="sys-icon">⌘</span><div><b>Core server</b><small>CPU utilization</small></div><strong>34%</strong></div><div class="meter"><i style="width:34%"></i></div>
+ <div class="system"><span class="sys-icon">◈</span><div><b>Network gateway</b><small>Network load</small></div><strong>62%</strong></div><div class="meter blue-meter"><i style="width:62%"></i></div>
+ <div class="system"><span class="sys-icon">▣</span><div><b>Storage cluster</b><small>Capacity used</small></div><strong>48%</strong></div><div class="meter purple-meter"><i style="width:48%"></i></div>
+ </article>
+</section>
+<section class="panel activity" id="activity"><div class="panel-head"><div><p class="eyebrow">AUDIT TRAIL</p><h2>Recent activity</h2></div><span class="muted">Today</span></div><div class="timeline"><p><i class="dot green"></i><span><b>Backup verification completed</b><small>Automated check · 09:42</small></span><em>Success</em></p><p><i class="dot yellow"></i><span><b>Access policy updated</b><small>Admin action · 09:18</small></span><em>Logged</em></p><p><i class="dot blue-dot"></i><span><b>System health check passed</b><small>Monitoring · 08:56</small></span><em>Success</em></p></div></section>
+<footer>© 2026 N1XK · Security Ops UI concept <span>Built with HTML · CSS · JavaScript</span></footer>
+</main><script src="app.js"></script></body></html>

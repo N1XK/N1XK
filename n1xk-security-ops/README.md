@@ -1,12 +1,14 @@
 # N1XK Security Ops
 
-A cybersecurity operations dashboard concept built with HTML, CSS and JavaScript.
+A front-end **cybersecurity operations dashboard concept** built with HTML, CSS and vanilla JavaScript.
 
 ## Features
-- Security status overview
-- Sample incident monitoring
-- System health indicators
-- Responsive dashboard layout
+- Security posture overview with simulated metrics
+- Interactive incident queue and severity filters
+- System health indicators and activity timeline
+- Responsive dark interface
 
-## Note
-This is a front-end demo with sample data. It does not perform real security scans or protection.
+> Showcase/demo project only. The dashboard uses sample data and does not scan devices, detect real attacks, or provide security protection.
+
+## Run
+Open `index.html` in a modern browser.
