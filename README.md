@@ -1,2 +1,2 @@
-# QuickQuiz
-A JavaScript multiple-choice quiz with instant feedback and a final score. Open `index.html` to play.
+# TaskFlow — To-Do List
+Add, complete and delete tasks. Tasks persist in browser localStorage. Open `index.html` to run.
