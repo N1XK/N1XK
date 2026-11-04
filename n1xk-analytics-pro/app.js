@@ -1,0 +1,1 @@
+const button=document.querySelector('#range');let alternate=false;button.addEventListener('click',()=>{alternate=!alternate;button.textContent=alternate?'Last 30 days⌄':'Last 7 days⌄';document.querySelector('#visitors').textContent=alternate?'98,420':'24,892'});
