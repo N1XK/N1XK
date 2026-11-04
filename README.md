@@ -28,15 +28,9 @@
 ### 📊 GitHub Statistics
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=N1XK&show_icons=true&theme=tokyonight&hide_border=true" />
+  <img src="https://github-stats-extended.vercel.app/api?username=N1XK&show_icons=true&theme=tokyonight&hide_border=true" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=N1XK&layout=compact&theme=tokyonight&hide_border=true" />
-</p>
-
----
-
-<p align="center">
-  <b>Thanks for visiting my profile! ⭐</b>
+  <img src="https://github-stats-extended.vercel.app/api/top-langs/?username=N1XK&layout=compact&theme=tokyonight&hide_border=true" />
 </p>
