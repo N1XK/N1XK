@@ -1,12 +1,7 @@
-# N1XK AI Dashboard
+# N1XK AI Studio
 
-A modern, responsive AI dashboard concept built with HTML, CSS and JavaScript.
+A responsive AI-workspace dashboard concept built with HTML, CSS and JavaScript.
 
-## Features
-- Clean dashboard interface
-- Responsive design
-- Dark and light theme
-- AI prompt preview demo
+**Showcase demo:** the prompt panel generates a local preview only; it is not connected to an AI service.
 
-## Note
-This is a front-end showcase project with demo functionality.
+Open `index.html` in a browser. Features: responsive sidebar, metric cards, theme toggle and interactive prompt preview.
