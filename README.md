@@ -1,42 +1,42 @@
-Hi, I'm N1XK 👋
+<h1 align="center">Hi, I'm N1XK 👋</h1>
 
-Student | Aspiring Software Developer | Tech Enthusiast
+<h3 align="center">Student | Aspiring Software Developer | Tech Enthusiast</h3>
 
-I’m a student passionate about technology, programming, and continuous learning. I enjoy exploring new tools, developing practical skills, and turning ideas into projects.
-
----
-
-🎓 About Me
-
-- 📚 Currently focused on learning and improving my technical skills
-- 💻 Interested in software development and web technologies
-- 🌱 Always curious to learn something new
-- 🚀 Working towards becoming a skilled developer
-- 🎯 Believe in consistency, creativity, and lifelong learning
-
-🧰 Skills & Technologies
-
-"HTML5" (https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
-"CSS3" (https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
-"JavaScript" (https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
-"Python" (https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
-"Git" (https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
-
-📈 My GitHub Journey
-
-"GitHub Stats" (https://github-readme-stats.vercel.app/api?username=N1XK&show_icons=true&theme=default&hide_border=true)
-
-"Top Languages" (https://github-readme-stats.vercel.app/api/top-langs/?username=N1XK&layout=compact&theme=default&hide_border=true)
+<p align="center">
+  Learning, building, and improving every day.
+</p>
 
 ---
 
-💡 My Philosophy
+### 👨‍💻 About Me
 
-«"Learn with curiosity. Build with purpose. Grow with consistency."»
+- 🎓 I'm a student passionate about technology.
+- 💻 I'm learning software development and programming.
+- 🚀 I enjoy exploring new technologies and building projects.
+- 📚 Always learning something new.
+
+### 🛠️ Technologies I'm Exploring
+
+<p>
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
+</p>
+
+### 📊 GitHub Statistics
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=N1XK&show_icons=true&theme=tokyonight&hide_border=true" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=N1XK&layout=compact&theme=tokyonight&hide_border=true" />
+</p>
 
 ---
 
 <p align="center">
-  <b>Thanks for visiting my profile!</b><br/>
-  Let's learn and build something meaningful.
+  <b>Thanks for visiting my profile! ⭐</b>
 </p>
