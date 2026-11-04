@@ -1,2 +1,2 @@
-# Portfolio Website
-Responsive personal portfolio landing page built with HTML and CSS. Open `index.html` to run.
+# QuickQuiz
+A JavaScript multiple-choice quiz with instant feedback and a final score. Open `index.html` to play.
