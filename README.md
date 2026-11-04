@@ -1,2 +1,2 @@
-# TaskFlow — To-Do List
-Add, complete and delete tasks. Tasks persist in browser localStorage. Open `index.html` to run.
+# WeatherNow
+City weather lookup using Open-Meteo geocoding and forecast APIs. No API key required; internet connection needed. Open `index.html`.
